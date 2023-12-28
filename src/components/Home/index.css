@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.home-heading {
+  text-align: center;
+}
+.home-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

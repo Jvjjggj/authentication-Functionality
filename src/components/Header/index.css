@@ -1,0 +1,7 @@
+#homeId {
+  display: flex;
+  justify-content: center;
+}
+.home-link {
+  margin-right: 10px;
+}
